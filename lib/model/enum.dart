@@ -1,0 +1,1 @@
+enum ItemCategory { Fruit, Vegetable }

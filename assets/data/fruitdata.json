@@ -1,0 +1,76 @@
+{
+    
+    
+    "fruits":[
+
+    {
+        "tag": "mango",
+        "fav": false,
+        "fruitName": "Mango",
+        "imageSrc": "assets/images/mango2.png",
+        "price": "44",
+        "description": "description",
+        "allImages":["assets/images/mango.png",
+                             "assets/images/mango-2.png",
+                             "assets/images/mango-4.png",
+                             "assets/images/mango-5.png"],
+        "healthBenefits": ["aids digestion","helps maintain healthy skin & hair","healthy heart and eye","It helps the reduction in incidences of cancer","It can combat stomach acidity"]
+      },
+      {
+        "tag": "banana",
+        "fav": true,
+        "fruitName": "Banana",
+        "imageSrc": "assets/images/bananas.png",
+        "price": "35",
+        "description": "this is the description",
+        
+        "allImages":["assets/images/mango.png",
+                             "assets/images/mango-2.png",
+                             "assets/images/mango-4.png",
+                             "assets/images/mang0-5.png"],
+        "healthBenefits": ["It regulate blood pressure",
+                              "Provide energy",
+                              "Provides good stamina",
+                            "Prevent constipation (ripe banana)",
+                          "It help in sleep",
+                          "Excellent fruit to treat anaemia"]
+      },
+      {
+        "tag": "apple",
+        "fav": false,
+        "fruitName": "Apple",
+        "imageSrc": "assets/images/more apple.png",
+        "price": "44",
+        "description": "description",
+        
+        "allImages":["assets/images/apple.png",
+                             "assets/images/apple-2.png",
+                             "assets/images/apple-3.png"],
+        "healthBenefits": ["Reduce blood cholesterol",
+                     "Counters constipation and diarrhoea",
+            "Improves digestion and absorption",
+          "Improves defence  mechanism against illness"]
+      },
+      {        "tag": "orange",
+      "fav": false,
+      "fruitName": "Orange",
+      "imageSrc": "assets/images/orange.png",
+      "price": "44",
+      "description": "description",
+         
+      "allImages":["assets/images/orange.png",
+      "assets/images/orange-2.png",
+      "assets/images/orange-3.png"],
+      "healthBenefits": ["Resist infection",
+                   "It provides strong defences to the body",
+          "Can improve and strengthen blood vessels",
+        "Maintain cell wall strength",
+      "Aiding capillary circulation",
+    "It has a strong antioxidant power",
+  "Excellent for treating over acid body condition constipation"
+]
+
+
+
+      }
+]}
